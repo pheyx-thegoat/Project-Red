@@ -3,12 +3,6 @@
 A Fabric mod for Minecraft 26.2. Adds carmine, a metal made from redstone, iron and netherite,
 with a full block set, three weapons and three enchantments to go with them.
 
-<p>
-  <img src="art/source/carmine%20longsword/carmine%20longsword%2032x.png" width="96" alt="Carmine Longsword">
-  <img src="art/source/carmine%20leviathan%20axe/carmine%20leviathan%20axe%2032x.png" width="96" alt="Carmine Leviathan Axe">
-  <img src="art/source/carmine%20scythe/Carmine%20Scythe%2032x.png" width="96" alt="Carmine Scythe">
-</p>
-
 ## Requirements
 
 | | |
