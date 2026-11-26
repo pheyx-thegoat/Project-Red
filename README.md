@@ -1,7 +1,7 @@
 # Project Red
 
 A Fabric mod for Minecraft 26.2. Adds carmine, a metal made from redstone, iron and netherite,
-with a full block set, three weapons and three enchantments to go with them.
+with a full block set, three weapons and three enchantments to go with them!
 
 ## Requirements
 
@@ -31,10 +31,8 @@ Critical hits heal half a heart and drag the target toward you.
 
 ## Enchantments
 
-All three are single level. Books for them are in the Carmine creative tab.
-
-- **Detonation** — only does anything on the longsword. Unlocks the full charge blast.
-- **Pressure Point** — +4 damage against a player wearing no netherite armour.
+- **Detonation** — longsword only. Unlocks the full charge blast.
+- **Pressure Point** — Axe only. +4 damage against a player wearing no netherite armour.
 - **Prey** — scythe only. Right click to mark a random player within 100 blocks with Glowing for
   10 seconds, with a 30 second cooldown.
 
