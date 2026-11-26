@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"N": "project-red:carmine_nugget",
+		"B": "minecraft:bone",
+		"K": "minecraft:book"
+	},
+	"pattern": [
+		"NBN",
+		"BKB",
+		"NBN"
+	],
+	"result": {
+		"id": "minecraft:enchanted_book",
+		"components": {
+			"minecraft:stored_enchantments": {
+				"project-red:prey": 1
+			}
+		}
+	}
+}

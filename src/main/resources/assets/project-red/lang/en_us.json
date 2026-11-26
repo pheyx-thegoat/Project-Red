@@ -1,0 +1,19 @@
+{
+	"itemGroup.project-red.carmine": "Carmine",
+
+	"item.project-red.carmine_ingot": "Carmine Ingot",
+	"item.project-red.carmine_nugget": "Carmine Nugget",
+	"block.project-red.carmine_block": "Block of Carmine",
+	"block.project-red.carmine_stairs": "Carmine Stairs",
+	"block.project-red.carmine_slab": "Carmine Slab",
+	"block.project-red.carmine_wall": "Carmine Wall",
+
+	"item.project-red.carmine_longsword": "Carmine Longsword",
+	"item.project-red.carmine_leviathan_axe": "Carmine Leviathan Axe",
+	"item.project-red.carmine_scythe": "Carmine Scythe",
+
+	"enchantment.project-red.detonation": "Detonation",
+	"enchantment.project-red.pressure_point": "Pressure Point",
+	"enchantment.project-red.prey": "Prey",
+	"tag.item.project-red.enchantable.carmine_weapons": "Carmine Weapons"
+}

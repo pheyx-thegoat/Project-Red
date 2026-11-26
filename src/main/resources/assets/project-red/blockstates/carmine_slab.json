@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "project-red:block/carmine_slab"
+    },
+    "type=double": {
+      "model": "project-red:block/carmine_block"
+    },
+    "type=top": {
+      "model": "project-red:block/carmine_slab_top"
+    }
+  }
+}

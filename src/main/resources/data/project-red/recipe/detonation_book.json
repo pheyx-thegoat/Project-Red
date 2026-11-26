@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"N": "project-red:carmine_nugget",
+		"T": "minecraft:tnt",
+		"B": "minecraft:book"
+	},
+	"pattern": [
+		"NTN",
+		"TBT",
+		"NTN"
+	],
+	"result": {
+		"id": "minecraft:enchanted_book",
+		"components": {
+			"minecraft:stored_enchantments": {
+				"project-red:detonation": 1
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"N": "project-red:carmine_nugget",
+		"S": "minecraft:netherite_scrap",
+		"B": "minecraft:book"
+	},
+	"pattern": [
+		"NSN",
+		"SBS",
+		"NSN"
+	],
+	"result": {
+		"id": "minecraft:enchanted_book",
+		"components": {
+			"minecraft:stored_enchantments": {
+				"project-red:pressure_point": 1
+			}
+		}
+	}
+}

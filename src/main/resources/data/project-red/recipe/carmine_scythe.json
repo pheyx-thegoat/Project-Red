@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"I": "project-red:carmine_ingot",
+		"S": "minecraft:stick"
+	},
+	"pattern": [
+		"III",
+		" S ",
+		"S  "
+	],
+	"result": {
+		"id": "project-red:carmine_scythe"
+	}
+}

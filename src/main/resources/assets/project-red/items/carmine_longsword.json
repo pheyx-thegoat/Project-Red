@@ -1,0 +1,26 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "gui",
+				"model": {
+					"type": "minecraft:model",
+					"model": "project-red:item/carmine_longsword_icon"
+				}
+			},
+			{
+				"when": "ground",
+				"model": {
+					"type": "minecraft:model",
+					"model": "project-red:item/carmine_longsword_icon"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "project-red:item/carmine_longsword_3d"
+		}
+	}
+}
