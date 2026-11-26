@@ -1,6 +1,6 @@
 # Project Red
 
-A Fabric mod for Minecraft 26.2. Adds carmine, a red metal made from redstone, iron and netherite,
+A Fabric mod for Minecraft 26.2. Adds carmine, a metal made from redstone, iron and netherite,
 with a full block set, three weapons and three enchantments to go with them.
 
 <p>
@@ -20,23 +20,20 @@ with a full block set, three weapons and three enchantments to go with them.
 
 ## Carmine
 
-Shapeless: 4 redstone, 2 iron ingots and 2 netherite ingots, which gives 2 carmine ingots. Nine
-nuggets make an ingot, nine ingots make a block. The block set is a block, stairs, slab and wall,
-all needing a diamond pickaxe or better.
+Shapeless: 4 redstone, 2 iron ingots and 2 netherite ingots, which gives 2 carmine ingots.
 
 ## The weapons
 
-**Carmine Longsword** — netherite damage plus one block of reach, and it is held like a crossbow.
+**Carmine Longsword** — 
 Each hit that lands adds a charge, up to three, drawn above the durability bar. Right clicking
-spends a charge on a dash. At three charges, right clicking with Detonation detonates instead: an
-8 block blast that leaves the wielder untouched.
+spends a charge on a dash. At three charges, right clicking with Detonation detonates instead.
 
-**Carmine Leviathan Axe** — 10 damage, and Strength I while it is held in either hand. Right click
-the ground while standing on it to slam. Everything within about four blocks takes 8 damage and is
-thrown outward and up, and the wielder is launched clear of the crater. The screen shakes.
+**Carmine Leviathan Axe** — 
+Strength I while it is held in either hand. Right click 
+the ground while standing on it to slam.
 
-**Carmine Scythe** — 10 damage at 1.3 attack speed, two more than a netherite sword. Critical hits
-heal half a heart and drag the target toward you.
+**Carmine Scythe** — 
+Critical hits heal half a heart and drag the target toward you.
 
 ## Enchantments
 
@@ -46,21 +43,6 @@ All three are single level. Books for them are in the Carmine creative tab.
 - **Pressure Point** — +4 damage against a player wearing no netherite armour.
 - **Prey** — scythe only. Right click to mark a random player within 100 blocks with Glowing for
   10 seconds, with a 30 second cooldown.
-
-## Building
-
-Needs JDK 25.
-
-```
-./gradlew build
-```
-
-The jar ends up in `build/libs`.
-
-## Art
-
-`art/source` holds the textures at both 16x and 32x and the model files the item models are built
-from.
 
 ## Authors
 
